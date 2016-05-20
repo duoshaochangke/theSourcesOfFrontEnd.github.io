@@ -12,6 +12,8 @@
       * Dead Center an Element
          * left = 50%; margin: -\(y/2\) 0 0 -\(x/2\); x=childWidth, y=childHeight.
          
+___?: The theory of negative margin ?___
+         
 ###Navigation
 * [Subtle and modern effects for links or menu items](http://tympanus.net/Development/CreativeLinkEffects/)
 
