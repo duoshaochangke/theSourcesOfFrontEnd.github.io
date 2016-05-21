@@ -1,8 +1,8 @@
 #Perfect Article:
-###1.How to center?
-1.1[Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt)
+###1. How to center?
+1.1 [Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt)
 
-1.2[How To Center Anything With CSS](https://codemyviews.com/blog/how-to-center-anything-with-css#comment-684580538)
+1.2 [How To Center Anything With CSS](https://codemyviews.com/blog/how-to-center-anything-with-css#comment-684580538)
 * Horizontally Center an Element
      * the width must always be set.
      * this trick will work on most block level elements.
