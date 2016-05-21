@@ -11,6 +11,8 @@
          * left = 50%; margin: 0 0 0 -\(x/2\); x=childWidth.
       * Dead Center an Element
          * left = 50%; margin: -\(y/2\) 0 0 -\(x/2\); x=childWidth, y=childHeight.
+      * Centering a Background Image
+         * background: center;
          
 ___?: The theory of negative margin ?___
          
