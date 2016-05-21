@@ -3,17 +3,17 @@
 1.1[Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt)
 
 1.2[How To Center Anything With CSS](https://codemyviews.com/blog/how-to-center-anything-with-css#comment-684580538)
-      * Horizontally Center an Element
-         * the width must always be set.
-         * this trick will work on most block level elements.
-      * Center An Absolutely Positioned Element
-         * left = \(x - y\) / 2, x=parentWidth, y=childWidth.
-      * With Fluid Width
-         * left = 50%; margin: 0 0 0 -\(x/2\); x=childWidth.
-      * Dead Center an Element
-         * left = 50%; margin: -\(y/2\) 0 0 -\(x/2\); x=childWidth, y=childHeight.
-      * Centering a Background Image
-         * background: center;
+* Horizontally Center an Element
+     * the width must always be set.
+     * this trick will work on most block level elements.
+* Center An Absolutely Positioned Element
+     * left = \(x - y\) / 2, x=parentWidth, y=childWidth.
+* With Fluid Width
+     * left = 50%; margin: 0 0 0 -\(x/2\); x=childWidth.
+* Dead Center an Element
+     * left = 50%; margin: -\(y/2\) 0 0 -\(x/2\); x=childWidth, y=childHeight.
+* Centering a Background Image
+     * background: center;
          
 ___?: The theory of negative margin ?___
          
